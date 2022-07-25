@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+ <languages>
+        <language>
+            <Name>English</Name>
+            <langue>Language</langue>
+            <graphic>Graphic</graphic>
+            <play>Play</play>
+            <quit>Quit</quit>
+        </language>
+        <language>
+            <Name>Français</Name>
+            <langue>Langue</langue>
+            <graphic>Graphismes</graphic>
+            <play>Jouer</play>
+            <quit>Quitter</quit>
+        </language>
+ </languages>
